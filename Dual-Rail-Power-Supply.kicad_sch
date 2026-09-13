@@ -2,8 +2,13 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 51680b2b-7cef-48dd-8aae-fe5de0aeb931)
+	(uuid "51680b2b-7cef-48dd-8aae-fe5de0aeb931")
 	(paper "A4")
+	(title_block
+		(title "Dual Rail Power Supply")
+		(date "2026-09-13")
+		(rev "01")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"

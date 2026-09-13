@@ -8,7 +8,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "01"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -409,11 +409,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
+    "top_level_sheets": [
+      {
+        "filename": "Dual-Rail-Power-Supply.kicad_sch",
+        "name": "Dual-Rail-Power-Supply",
+        "uuid": "51680b2b-7cef-48dd-8aae-fe5de0aeb931"
+      }
+    ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "51680b2b-7cef-48dd-8aae-fe5de0aeb931",
+      "Dual-Rail-Power-Supply"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
