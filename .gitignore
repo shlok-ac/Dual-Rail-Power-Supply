@@ -31,6 +31,7 @@ fp-info-cache
 
 # Backup Files
 .history/
+_restore_backup_*
 
 #Research Files
 Research.md
