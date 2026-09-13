@@ -32,5 +32,9 @@ fp-info-cache
 # Backup Files
 .history/
 
-#Research files
-Research.txt
+#Research Files
+Research.md
+
+#Component Selection File
+Component.md
+
