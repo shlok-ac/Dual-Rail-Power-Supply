@@ -33,11 +33,8 @@ fp-info-cache
 .history/
 _restore_backup_*
 
-#Research Files
-R.md
-
-#Component Selection File
-Component.md
+#Rough Work Files
+rough work/
 
 #VS Code Files
 .vscode/
