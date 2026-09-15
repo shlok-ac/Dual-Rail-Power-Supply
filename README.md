@@ -1,7 +1,12 @@
 # Dual-Rail-Power-Supply
 
->Project Status : PCB not designed yet
+>Project Status 
 
-*Currently Working On :*
-
-* Research
+- [x] Requirements
+- [ ] Research
+- [ ] Component selection
+- [ ] Schematic
+- [ ] ERC
+- [ ] PCB layout
+- [ ] DRC
+- [ ] Final documentation
