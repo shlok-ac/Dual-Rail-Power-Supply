@@ -1,6 +1,6 @@
 # Dual-Rail-Power-Supply
 
->Project Status 
+>***Project Status*** 
 
 - [x] Requirements
 - [ ] Research
